@@ -68,11 +68,11 @@ input
    align-items: center;
    padding-top: 55px;
    padding-bottom: 15px;
-  min-width: 75rem;
+  min-width: 77rem;
 }
 .SliderPage
 {
-  min-width: 75rem;
+  min-width: 77rem;
 }
 .name{
   display:flex;
@@ -106,7 +106,7 @@ input
   margin-left: 10px;
   margin-right: 10px;
   box-sizing: border-box;
-  min-width: 74.4rem;
+  min-width: 75.8rem;
 }
 .mobile {
  
@@ -154,7 +154,7 @@ input
   margin-left: 10px;
   margin-right: 10px;
   box-sizing: border-box;
-  min-width: 74.4rem;
+  min-width: 75.8rem;
 }
 .design1{
   background-color: white;
@@ -163,12 +163,12 @@ input
   margin-left: 10px;
   margin-right: 10px;
   height:560px;
-  min-width: 74.4rem;
+  min-width: 75.8rem;
 
 }
 .describe
 {
-  min-width: 75rem;
+  min-width: 77rem;
 }
 .suggest{
    padding-top: 20px;
@@ -222,7 +222,7 @@ input
 .social
 {
   background-color:rgb(8, 36, 79);
-  min-width: 75rem;
+  min-width: 77rem;
 }
 .about
 {
